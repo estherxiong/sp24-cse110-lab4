@@ -7,7 +7,7 @@
 3. 150
 
 4. 
-It returns nothing. The code works perfectly, but in order to return the array, you need to add console.log to show it.
+It returns nothing. The code works perfectly, but in order to return the array, you need to add console.log to show it. If added, then the function would return an array with all the prices discounted, so [50,100,150].
 
 5. 
 This throws an error since the variable 'i' is declared with the let keyword, which means that it can only be accessible in the block. Which means that when we try to access i outside the block, JS throws an error.
