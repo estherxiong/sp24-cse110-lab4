@@ -1,13 +1,10 @@
 ## Part 2. A Little More of a Challenge
 
-1. 
-3
+1. 3
 
-2. 
-150
+2. 150
 
-3. 
-150
+3. 150
 
 4. 
 It returns nothing. The code works perfectly, but in order to return the array, you need to add console.log to show it.
@@ -18,8 +15,7 @@ This throws an error since the variable 'i' is declared with the let keyword, wh
 6. 
 Same explanation as 5.
 
-7. 
-150
+7. 150
 
 8. 
 Same explanation as 4.
@@ -27,8 +23,7 @@ Same explanation as 4.
 9. 
 Same explanation as 5.
 
-10. 
-3
+10. 3
 
 11. 
 Same explanation as 4.
